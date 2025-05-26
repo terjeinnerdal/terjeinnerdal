@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @terjeinnerdal
 - 👀 I’m interested in plants and programming
-- 🌱 I’m currently learning about botany and react
+- 🌱 I’m currently learning about botany and the simulated whole
 - 💞️ I’m looking to collaborate on some red icon
 - 📫 github.com/terjeinnerdal
 
